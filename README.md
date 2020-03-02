@@ -42,3 +42,10 @@ Após rodar os micro serviços poderá visualizar eles registrados no Eureka em:
 http://localhost:9091/
 ```
 
+### Autenticação
+
+Para realizar a autenticação, poderá ser utilizado o [Postman](https://www.postman.com/).
+  - Método: POST
+  - URI: http://localhost:9092/oauth/token?grant_type=password&username=admin&password=123456
+  - Authorization: Username: coderef Password: $2a$10$p9Pk0fQNAQSesI4vuvKA0OZanDD2
+
