@@ -1,6 +1,6 @@
 # Delivery
 
-Projeto desenvolvido utilizando conceito de micro serviços utilizando linguagem de desenvolvimento Java.
+Projeto desenvolvido utilizando micro serviços com a linguagem de desenvolvimento Java.
 
 ### Serviços
 
